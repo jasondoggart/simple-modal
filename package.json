@@ -1,0 +1,11 @@
+{
+  "name": "simple-modals",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "micromodal": "^0.3.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
